@@ -1,1 +1,2 @@
-# soluciones-tdp
+# soluciones-tpc
+Soluciones Taller Programación Competitiva
